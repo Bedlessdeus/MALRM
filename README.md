@@ -1,0 +1,2 @@
+# MALRM
+MALRM stands for My Anime List Remastered. It is a project aimed at enhancing the user experience of My Anime List by providing a more modern and intuitive interface. For tracking progress, that you can self host. The goal is to make it easier for users to track their anime.
